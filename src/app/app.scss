@@ -1,0 +1,93 @@
+/*@charset "utf-8";
+
+a:hover, a:active {
+  text-decoration: underline;
+}
+.is-bottom-aligned {
+  align-items: flex-end;
+}
+.is-text-centered {
+  text-align: center;
+}
+.is-left-aligned {
+  text-align: left;
+}
+.black-text {
+  color: #000;
+}
+.gray-text {
+  color: #828282;
+}
+
+.title-text{
+  font-size: 1.2rem;
+}
+
+.header {
+  height: 65px;
+}
+
+.feed-container {
+  top : 45px;
+  position: relative;
+}
+.pagination {
+  background-color: rgb(243, 243, 236);
+  position: relative;
+  top: 55px;
+  padding-right: 30px;
+  color: rgb(255,102,0);
+  font-weight: 700;
+  padding-bottom: 3px;
+  border-bottom: 3px solid rgb(255,102,0);
+  width: 100%;
+}
+
+.pagination .level-right {
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+
+.paginator-button {
+  @extend .button;
+  @extend .is-text;
+  color: rgb(255,102,0);
+  font-weight: 700;
+}
+.paginator-button:hover {
+  color: rgb(255,102,0);
+  font-weight: 700;
+}
+
+.paginator-button:focus, .paginator-button:active {
+  color: rgb(255,102,0);
+  font-weight: 700;
+}
+
+.gray-background {
+  background-color: rgb(246,246, 239);
+  margin-top: 12px;
+}
+
+.dark-gray-background {
+  background-color: rgb(230,229, 223);
+  margin-top: 12px;
+}
+
+.gray-background-mobile {
+  @extend .gray-background;
+  margin-top: 0px;
+  padding: 8px;
+}
+
+.dark-gray-background-mobile {
+  @extend .dark-gray-background;
+  margin-top: 0px;
+  padding: 8px;
+}
+
+.div-inline-table{
+  display: inline-table;
+  max-width: 80%;
+}
+*/

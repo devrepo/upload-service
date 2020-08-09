@@ -1,0 +1,9 @@
+export const GET_DOCUMENTS_STARTED = "documents/get/started";
+export const GET_DOCUMENTS_SUCCESS = "documents/get/success";
+export const GET_DOCUMENTS_FAILURE = "documents/get/failure";
+export const DOWNLOAD_DOCUMENTS_STARTED = "documents/download/started";
+export const DOWNLOAD_DOCUMENTS_SUCCESS = "documents/download/success";
+export const DOWNLOAD_DOCUMENTS_FAILURE = "documents/download/failure";
+export const UPLOAD_DOCUMENTS_STARTED = "documents/upload/started";
+export const UPLOAD_DOCUMENTS_SUCCESS = "documents/upload/success";
+export const UPLOAD_DOCUMENTS_FAILURE = "documents/upload/failure";

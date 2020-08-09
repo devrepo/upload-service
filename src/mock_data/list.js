@@ -1,0 +1,36 @@
+export const list = {
+  data: [
+    {
+      _id: "5f2e4aac40330202d225aa70",
+      filename: "test1.pdf",
+      path: "documents/4464cc9a4dbe24929e5c5c4ad3b9ed57_test1.pdf",
+      size: 87425,
+      mimetype: "application/pdf",
+      user: "MyName",
+      description: "Description 1",
+      uploadedAt: 1596869292124,
+    },
+    {
+      _id: "5f2edc7671270c04d4e4394d",
+      filename: "test2.pdf",
+      path: "documents/de22b807b12024d4252511b92abae08a_test2.pdf",
+      size: 170653,
+      mimetype: "application/pdf",
+      user: "MyName",
+      description: "Description 2",
+      uploadedAt: 1596906614854,
+    },
+    {
+      _id: "5f2edcfe71270c04d4e4394e",
+      filename: "test3.jpeg",
+      path: "documents/3299afc0be170570a0964b4e2d816e8c_test3.jpeg",
+      size: 88182,
+      mimetype: "image/jpeg",
+      user: "MyName",
+      description: "Description 3",
+      uploadedAt: 1596906750738,
+    },
+  ],
+  success: true,
+  lastPage: false,
+};
